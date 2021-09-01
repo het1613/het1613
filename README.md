@@ -1,16 +1,23 @@
-Hi there, I'm Het! 👋
+<h1 align="center">Hi 👋, I'm Het Patel</h1>
+<hr>
+<h3 align="center">I study Systems Design Engineering at the University of Waterloo & mainly focus on software development.</h3>
+<hr>
 
-<!--
-**het1613/het1613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>💖 Interests Include:</h3>
+<ul>
+  <li>Backend Development</li>
+  <li>Hackathons</li>
+  <li>AI/ML</li>
+</ul>
+  
+<h3>📄 Know about my experiences:</h3>
+<ul>
+  <li><a href='https://www.hetpatel.site/Het_Patel_Resume.pdf' target='_blank'>Resume</a></li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📫 Connect with me:</h3>
+<ul>
+  <li>Email: <a href="mailto:het.patel1@uwaterloo.ca" target="_blank" >het.patel1@uwaterloo.ca</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/het1613/" target="_blank">linkedin.com/in/het1613/</a></li>
+  <li>Website: <a href="https://www.hetpatel.site" target="_blank">hetpatel.site</a></li>
+</ul>
