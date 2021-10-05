@@ -12,7 +12,7 @@
   
 <h3>📄 Know about my experiences:</h3>
 <ul>
-  <li><a href='https://www.hetpatel.site/Het_Patel_Resume.pdf' target='_blank'>Resume</a></li>
+  <li><a href='https://www.hetpatel.site/Het-Patel-Resume.pdf' target='_blank'>Resume</a></li>
 </ul>
 
 <h3>📫 Connect with me:</h3>
